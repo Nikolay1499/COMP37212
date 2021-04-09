@@ -1,0 +1,1 @@
+This is assignment 1 for Comp37212 Computer Vision at university of Manchester
